@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+  }
+  
+  li:nth-child(even) {
+    background-color: #e6f2ff;
+  }
+  
+  li:nth-child(odd) {
+    background-color: #fff0e6;
+  }
+  
+  li:hover {
+    background-color: #e6ffe6;
+  }
+  
+  h2 {
+    color: #0066cc;
+    margin-bottom: 20px;
+  }
+  

@@ -1,0 +1,6 @@
+[
+    
+    { "serialNo": 1, "date": "2023-04-01", "reason": "Groceries", "amount": 50, "debitCredit": "Debit" },
+    { "serialNo": 2, "date": "2023-04-02", "reason": "Gas", "amount": 30, "debitCredit": "Debit" },
+    { "serialNo": 3, "date": "2023-04-03", "reason": "Salary", "amount": 1000, "debitCredit": "Credit" }
+]
